@@ -1,5 +1,7 @@
 # Epidemic
 
+![Hackathon Winner](https://user-images.githubusercontent.com/50864725/184932812-367dde0e-ce00-49f6-b84c-279245ac60ff.jpeg)
+
 The project I am most proud of, it won me a Data Science Hackathon hosted by the University of Nairobi. I cleaned and restructured Kenyan HIV epidemiological data, before analyzing it to come up with insights that can help stakeholders come up with solutions on the best way to combat the disease, based on the facts. I also merged the HIV data with contraceptive data - using the county name as the index - to find out the effect of different contraceptives (condoms, IUDs etc) on the HIV infection rate in the various counties.  
 
 I used Python as well as its various libraries to achieve this (pandas, matplotlib, seaborn). Some of the insights I came up with include:
